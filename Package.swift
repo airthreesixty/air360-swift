@@ -15,8 +15,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Air360",
-      url: "https://cdn.air360tracker.net/ios/air360-sdk-0.4.8.zip",
-      checksum: "7354385185dadbfee36ff3b8274c405e6370cfb97229163874dedc99070bbe03"
+      url: "https://cdn.air360tracker.net/ios/air360-sdk-0.4.9.zip",
+      checksum: "bfd324539780fe1623be47340b03300dfb0455376fff5352d52e83eb998758b8"
     )
   ]
 )
